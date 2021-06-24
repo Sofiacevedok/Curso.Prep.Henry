@@ -1,0 +1,4 @@
+VARIABLE: Una variable es una forma de almacenar el valor de algo. Esos valores pueden configurar para que cambien y tengan un valor distinto.
+STRINGS: Son líneas de texto, una cadena de caracteres. Todo lo que esté entre comillas es un string.
+FUNCIONES: Las funciones calculan, cambian y ejecutan las variables. Se les da argumentos que son parámetros y devuelve un resultado, a esto se le llama return, es lo unico que se escapa de la función.
+DECLARACIONES: 
